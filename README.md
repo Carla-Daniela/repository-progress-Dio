@@ -1,2 +1,5 @@
-# repository-progress-impulso
-desafio de projeto sobre git/github, impulso react web developer, dio innovation one
+# repository-progress-Dio
+## Conteúdo
+- Meu progresso na Dio Innovation One
+- Certificados 
+- Projetos e atividades dos Bootcamps
